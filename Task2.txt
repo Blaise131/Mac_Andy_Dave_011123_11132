@@ -1,0 +1,15 @@
+Commands for Task2
+1. git branch (to check branches)
+2. git branch Project_City
+3. git add Country_1.doc (to add to stagged)
+4. git commit -a -m "Changes in Country_1" (to commit changes)
+5.git mv "Country_1.doc.docx" "Nigeria.doc.docx" (to change name)
+6. git diff (to track changes)
+7.  git mv "Country_2.doc.docx" "England.doc.docx" (change file name)
+8.  git rm "England.doc.docx" (remove file)
+9.  git restore "England.doc.docx"
+10. git log & git status (to review changes)
+11.  git push -u origin Project_City   (commit branch to git repo)
+12. git switch main (switching to main branch)
+13. git merge -m "Merge Project_City to main" Project_City
+14. git branch -d Project_City
