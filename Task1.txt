@@ -1,0 +1,12 @@
+Commands executed for Group Task:
+1. git add Country_1.doc
+2. git add Country_2.doc
+3. git commit -m "First commit"
+4. git diff (to track changes)
+5. git log --oneline (to track changes)
+6. git mv "Country_1.doc.docx" "Nigeria.docx"
+7. git rm "Country_2.doc.docx"
+8. git restore --staged Country_2.doc.docx
+9. git restore Country_2.doc.docx
+10. git remote add origin https://github.com/Blaise131/Mac_Andy_Dave_011123_11132.git
+11. git push -u origin main
